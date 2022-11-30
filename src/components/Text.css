@@ -1,0 +1,11 @@
+.textarea {
+    width: 80%;
+    font-size: 4vh;
+    font-family: Impact , sans-serif;
+    color:  white;
+    background-color: transparent;
+    border: none;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    -webkit-text-stroke: 1px black;
+}
