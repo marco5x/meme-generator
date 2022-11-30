@@ -12,7 +12,7 @@ export const Text = () => {
                 <div className="w-75">
                     <textarea
                         className="textarea"
-                        placeholder="Double click intro text"
+                        placeholder="Double click to edit. then drag"
                         onChange={(e) => setInput(e.target.value)}
                         value={input}
                     />
